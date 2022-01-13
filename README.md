@@ -23,10 +23,10 @@ Como rodar o projeto
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/robsonmedeiross/moveit.git
+$ git clone https://github.com/robsonmedeiross/React-Beauty-DnD.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Casa-Criativa
+$ cd React-Beauty-DnD
 
 # Caso esteja utilizando o VSCode utilize esse comando para abrir o projeto no editor.
 $ code .
@@ -35,7 +35,7 @@ $ code .
 $ npm/yarn install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm/yarn dev
+$ npm/yarn start
 
 # Abra a aplicação no browser na porta:3000 - acesse http://localhost:3000
 ```
