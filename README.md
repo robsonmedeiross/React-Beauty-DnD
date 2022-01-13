@@ -1,16 +1,17 @@
 React-Beuty-DnD 🖼️
+=================
 
 #### Descrição do projeto
 
 React Beautiful DnD é uma biblioteca de arrastar e soltar acessível da Atlassian. Uma interação que permite a alguém clicar e arrastar um item e, em seguida, soltá-lo em outro lugar, geralmente tendo um efeito colateral no aplicativo.
 
 
-### Referências:
-# site do conteúdo
+# Referências:
+### site do conteúdo
 https://cibersistemas.pt/tecnologia/como-adicionar-arrastar-e-soltar-no-react-com-react-beautiful-dnd/
-# Git do template
+### Git do template
 https://github.com/colbyfayock/my-final-space-characters/tree/part-0-starting-point
-# Git do projeto da Atlassian
+### Git do projeto da Atlassian
 https://github.com/atlassian/react-beautiful-dnd
 
 
