@@ -1,4 +1,4 @@
-![Banner - React-Beuty-DnD]
+React-Beuty-DnD 🖼️
 
 #### Descrição do projeto
 
